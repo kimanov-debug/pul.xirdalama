@@ -1,4 +1,4 @@
-﻿namespace xirdalanacaq.mebleg
+﻿namespace pul.xirdalama
 {
     partial class Form1
     {
